@@ -10,3 +10,4 @@ __pycache__/
 dist/
 build/
 *.egg-info/ 
+apiV2/.env
